@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommended Movies</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to bottom right, #ffcc00, #ff5733);
+            color: white;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #e74c3c;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        td {
+            background-color: #ffffff;
+            color: #333;
+            font-size: 1.1em;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            font-size: 1em;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Movie Recommendations</h1>
+    <table>
+        <tr>
+            <th>Movie Title</th>
+            <th>IMDB Rating</th>
+            <th>Release Year</th>
+        </tr>
+        {% for movie in recommendations %}
+        <tr>
+            <td>{{ movie['Series_Title'] }}</td>
+            <td>{{ movie['IMDB_Rating'] }}</td>
+            <td>{{ movie['Released_Year'] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <form action="/preferences" method="GET">
+        <button type="submit">Go Back to Preferences</button>
+    </form>
+</body>
+</html>

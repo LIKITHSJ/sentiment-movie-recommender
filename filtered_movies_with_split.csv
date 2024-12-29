@@ -1,0 +1,1001 @@
+Series_Title,Genre,Released_Year,IMDB_Rating,dataset_split
+The Shawshank Redemption,Drama,1994,9.3,train
+The Godfather,"Crime, Drama",1972,9.2,train
+The Dark Knight,"Action, Crime, Drama",2008,9.0,train
+The Godfather: Part II,"Crime, Drama",1974,9.0,train
+12 Angry Men,"Crime, Drama",1957,9.0,train
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama",2003,8.9,train
+Pulp Fiction,"Crime, Drama",1994,8.9,train
+Schindler's List,"Biography, Drama, History",1993,8.9,train
+Inception,"Action, Adventure, Sci-Fi",2010,8.8,train
+Fight Club,Drama,1999,8.8,train
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama",2001,8.8,test
+Forrest Gump,"Drama, Romance",1994,8.8,train
+"Il buono, il brutto, il cattivo",Western,1966,8.8,train
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama",2002,8.7,train
+The Matrix,"Action, Sci-Fi",1999,8.7,train
+Goodfellas,"Biography, Crime, Drama",1990,8.7,train
+Star Wars: Episode V - The Empire Strikes Back,"Action, Adventure, Fantasy",1980,8.7,train
+One Flew Over the Cuckoo's Nest,Drama,1975,8.7,train
+Hamilton,"Biography, Drama, History",2020,8.6,train
+Gisaengchung,"Comedy, Drama, Thriller",2019,8.6,train
+Soorarai Pottru,Drama,2020,8.6,train
+Interstellar,"Adventure, Drama, Sci-Fi",2014,8.6,train
+Cidade de Deus,"Crime, Drama",2002,8.6,train
+Sen to Chihiro no kamikakushi,"Animation, Adventure, Family",2001,8.6,test
+Saving Private Ryan,"Drama, War",1998,8.6,train
+The Green Mile,"Crime, Drama, Fantasy",1999,8.6,test
+La vita è bella,"Comedy, Drama, Romance",1997,8.6,train
+Se7en,"Crime, Drama, Mystery",1995,8.6,train
+The Silence of the Lambs,"Crime, Drama, Thriller",1991,8.6,train
+Star Wars,"Action, Adventure, Fantasy",1977,8.6,train
+Seppuku,"Action, Drama, Mystery",1962,8.6,test
+Shichinin no samurai,"Action, Adventure, Drama",1954,8.6,train
+It's a Wonderful Life,"Drama, Family, Fantasy",1946,8.6,train
+Joker,"Crime, Drama, Thriller",2019,8.5,train
+Whiplash,"Drama, Music",2014,8.5,train
+The Intouchables,"Biography, Comedy, Drama",2011,8.5,train
+The Prestige,"Drama, Mystery, Sci-Fi",2006,8.5,train
+The Departed,"Crime, Drama, Thriller",2006,8.5,train
+The Pianist,"Biography, Drama, Music",2002,8.5,train
+Gladiator,"Action, Adventure, Drama",2000,8.5,test
+American History X,Drama,1998,8.5,train
+The Usual Suspects,"Crime, Mystery, Thriller",1995,8.5,train
+Léon,"Action, Crime, Drama",1994,8.5,train
+The Lion King,"Animation, Adventure, Drama",1994,8.5,train
+Terminator 2: Judgment Day,"Action, Sci-Fi",1991,8.5,test
+Nuovo Cinema Paradiso,"Drama, Romance",1988,8.5,train
+Hotaru no haka,"Animation, Drama, War",1988,8.5,train
+Back to the Future,"Adventure, Comedy, Sci-Fi",1985,8.5,train
+Once Upon a Time in the West,Western,1968,8.5,train
+Psycho,"Horror, Mystery, Thriller",1960,8.5,train
+Casablanca,"Drama, Romance, War",1942,8.5,train
+Modern Times,"Comedy, Drama, Family",1936,8.5,train
+City Lights,"Comedy, Drama, Romance",1931,8.5,train
+Capharnaüm,Drama,2018,8.4,train
+Ayla: The Daughter of War,"Biography, Drama, History",2017,8.4,test
+Vikram Vedha,"Action, Crime, Drama",2017,8.4,test
+Kimi no na wa.,"Animation, Drama, Fantasy",2016,8.4,train
+Dangal,"Action, Biography, Drama",2016,8.4,train
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure",2018,8.4,train
+Avengers: Endgame,"Action, Adventure, Drama",2019,8.4,test
+Avengers: Infinity War,"Action, Adventure, Sci-Fi",2018,8.4,test
+Coco,"Animation, Adventure, Family",2017,8.4,train
+Django Unchained,"Drama, Western",2012,8.4,train
+The Dark Knight Rises,"Action, Adventure",2012,8.4,test
+3 Idiots,"Comedy, Drama",2009,8.4,train
+Taare Zameen Par,"Drama, Family",2007,8.4,train
+WALL·E,"Animation, Adventure, Family",2008,8.4,test
+The Lives of Others,"Drama, Mystery, Thriller",2006,8.4,test
+Oldeuboi,"Action, Drama, Mystery",2003,8.4,train
+Memento,"Mystery, Thriller",2000,8.4,train
+Mononoke-hime,"Animation, Action, Adventure",1997,8.4,test
+Once Upon a Time in America,"Crime, Drama",1984,8.4,train
+Raiders of the Lost Ark,"Action, Adventure",1981,8.4,test
+The Shining,"Drama, Horror",1980,8.4,train
+Apocalypse Now,"Drama, Mystery, War",1979,8.4,train
+Alien,"Horror, Sci-Fi",1979,8.4,train
+Anand,"Drama, Musical",1971,8.4,test
+Tengoku to jigoku,"Crime, Drama, Mystery",1963,8.4,train
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Comedy,1964,8.4,test
+Witness for the Prosecution,"Crime, Drama, Mystery",1957,8.4,train
+Paths of Glory,"Drama, War",1957,8.4,train
+Rear Window,"Mystery, Thriller",1954,8.4,train
+Sunset Blvd.,"Drama, Film-Noir",1950,8.4,train
+The Great Dictator,"Comedy, Drama, War",1940,8.4,train
+1917,"Drama, Thriller, War",2019,8.3,train
+Tumbbad,"Drama, Fantasy, Horror",2018,8.3,train
+Andhadhun,"Crime, Drama, Music",2018,8.3,test
+Drishyam,"Crime, Drama, Thriller",2013,8.3,train
+Jagten,Drama,2012,8.3,test
+Jodaeiye Nader az Simin,Drama,2011,8.3,train
+Incendies,"Drama, Mystery, War",2010,8.3,train
+Miracle in cell NO.7,Drama,2019,8.3,train
+Babam ve Oglum,"Drama, Family",2005,8.3,train
+Inglourious Basterds,"Adventure, Drama, War",2009,8.3,train
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi",2004,8.3,train
+Amélie,"Comedy, Romance",2001,8.3,train
+Snatch,"Comedy, Crime",2000,8.3,test
+Requiem for a Dream,Drama,2000,8.3,train
+American Beauty,Drama,1999,8.3,train
+Good Will Hunting,"Drama, Romance",1997,8.3,train
+Bacheha-Ye aseman,"Drama, Family, Sport",1997,8.3,train
+Toy Story,"Animation, Adventure, Comedy",1995,8.3,test
+Braveheart,"Biography, Drama, History",1995,8.3,train
+Reservoir Dogs,"Crime, Drama, Thriller",1992,8.3,train
+Full Metal Jacket,"Drama, War",1987,8.3,train
+Idi i smotri,"Drama, Thriller, War",1985,8.3,train
+Aliens,"Action, Adventure, Sci-Fi",1986,8.3,train
+Amadeus,"Biography, Drama, History",1984,8.3,test
+Scarface,"Crime, Drama",1983,8.3,train
+Star Wars: Episode VI - Return of the Jedi,"Action, Adventure, Fantasy",1983,8.3,train
+Das Boot,"Adventure, Drama, Thriller",1981,8.3,test
+Taxi Driver,"Crime, Drama",1976,8.3,train
+The Sting,"Comedy, Crime, Drama",1973,8.3,train
+A Clockwork Orange,"Crime, Drama, Sci-Fi",1971,8.3,train
+2001: A Space Odyssey,"Adventure, Sci-Fi",1968,8.3,train
+Per qualche dollaro in più,Western,1965,8.3,train
+Lawrence of Arabia,"Adventure, Biography, Drama",1962,8.3,train
+The Apartment,"Comedy, Drama, Romance",1960,8.3,train
+North by Northwest,"Adventure, Mystery, Thriller",1959,8.3,train
+Vertigo,"Mystery, Romance, Thriller",1958,8.3,train
+Singin' in the Rain,"Comedy, Musical, Romance",1952,8.3,test
+Ikiru,Drama,1952,8.3,train
+Ladri di biciclette,Drama,1948,8.3,train
+Double Indemnity,"Crime, Drama, Film-Noir",1944,8.3,train
+Citizen Kane,"Drama, Mystery",1941,8.3,train
+M - Eine Stadt sucht einen Mörder,"Crime, Mystery, Thriller",1931,8.3,train
+Metropolis,"Drama, Sci-Fi",1927,8.3,train
+The Kid,"Comedy, Drama, Family",1921,8.3,train
+Chhichhore,"Comedy, Drama",2019,8.2,train
+Uri: The Surgical Strike,"Action, Drama, War",2018,8.2,train
+K.G.F: Chapter 1,"Action, Drama",2018,8.2,train
+Green Book,"Biography, Comedy, Drama",2018,8.2,train
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama",2017,8.2,train
+Talvar,"Crime, Drama, Mystery",2015,8.2,train
+Baahubali 2: The Conclusion,"Action, Drama",2017,8.2,train
+Klaus,"Animation, Adventure, Comedy",2019,8.2,train
+Drishyam,"Crime, Drama, Mystery",2015,8.2,test
+Queen,"Adventure, Comedy, Drama",2013,8.2,test
+Mandariinid,"Drama, War",2013,8.2,train
+Bhaag Milkha Bhaag,"Biography, Drama, Sport",2013,8.2,test
+Gangs of Wasseypur,"Action, Comedy, Crime",2012,8.2,train
+Udaan,Drama,2010,8.2,train
+Paan Singh Tomar,"Action, Biography, Crime",2012,8.2,train
+El secreto de sus ojos,"Drama, Mystery, Romance",2009,8.2,train
+Warrior,"Action, Drama, Sport",2011,8.2,train
+Shutter Island,"Mystery, Thriller",2010,8.2,train
+Up,"Animation, Adventure, Comedy",2009,8.2,train
+The Wolf of Wall Street,"Biography, Crime, Drama",2013,8.2,train
+Chak De! India,"Drama, Family, Sport",2007,8.2,train
+There Will Be Blood,Drama,2007,8.2,train
+Pan's Labyrinth,"Drama, Fantasy, War",2006,8.2,train
+Toy Story 3,"Animation, Adventure, Comedy",2010,8.2,train
+V for Vendetta,"Action, Drama, Sci-Fi",2005,8.2,train
+Rang De Basanti,"Comedy, Crime, Drama",2006,8.2,train
+Black,Drama,2005,8.2,train
+Batman Begins,"Action, Adventure",2005,8.2,train
+"Swades: We, the People",Drama,2004,8.2,train
+Der Untergang,"Biography, Drama, History",2004,8.2,train
+Hauru no ugoku shiro,"Animation, Adventure, Family",2004,8.2,test
+A Beautiful Mind,"Biography, Drama",2001,8.2,train
+Hera Pheri,"Action, Comedy, Crime",2000,8.2,train
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime",1998,8.2,train
+L.A. Confidential,"Crime, Drama, Mystery",1997,8.2,train
+Eskiya,"Crime, Drama, Thriller",1996,8.2,train
+Heat,"Crime, Drama, Thriller",1995,8.2,train
+Casino,"Crime, Drama",1995,8.2,train
+Andaz Apna Apna,"Action, Comedy, Romance",1994,8.2,train
+Unforgiven,"Drama, Western",1992,8.2,train
+Indiana Jones and the Last Crusade,"Action, Adventure",1989,8.2,test
+Dom za vesanje,"Comedy, Crime, Drama",1988,8.2,train
+Tonari no Totoro,"Animation, Family, Fantasy",1988,8.2,train
+Die Hard,"Action, Thriller",1988,8.2,train
+Ran,"Action, Drama, War",1985,8.2,train
+Raging Bull,"Biography, Drama, Sport",1980,8.2,train
+Stalker,"Drama, Sci-Fi",1979,8.2,test
+Höstsonaten,"Drama, Music",1978,8.2,train
+The Message,"Biography, Drama, History",1976,8.2,train
+Sholay,"Action, Adventure, Comedy",1975,8.2,train
+Monty Python and the Holy Grail,"Adventure, Comedy, Fantasy",1975,8.2,train
+The Great Escape,"Adventure, Drama, History",1963,8.2,train
+To Kill a Mockingbird,"Crime, Drama",1962,8.2,train
+Yôjinbô,"Action, Drama, Thriller",1961,8.2,train
+Judgment at Nuremberg,"Drama, War",1961,8.2,train
+Some Like It Hot,"Comedy, Music, Romance",1959,8.2,train
+Smultronstället,"Drama, Romance",1957,8.2,test
+Det sjunde inseglet,"Drama, Fantasy, History",1957,8.2,train
+Du rififi chez les hommes,"Crime, Drama, Thriller",1955,8.2,train
+Dial M for Murder,"Crime, Thriller",1954,8.2,train
+Tôkyô monogatari,Drama,1953,8.2,train
+Rashômon,"Crime, Drama, Mystery",1950,8.2,train
+All About Eve,Drama,1950,8.2,train
+The Treasure of the Sierra Madre,"Adventure, Drama, Western",1948,8.2,train
+To Be or Not to Be,"Comedy, War",1942,8.2,train
+The Gold Rush,"Adventure, Comedy, Drama",1925,8.2,train
+Sherlock Jr.,"Action, Comedy, Romance",1924,8.2,train
+Portrait de la jeune fille en feu,"Drama, Romance",2019,8.1,train
+Pink,"Drama, Thriller",2016,8.1,train
+Koe no katachi,"Animation, Drama, Family",2016,8.1,train
+Contratiempo,"Crime, Drama, Mystery",2016,8.1,test
+Ah-ga-ssi,"Drama, Romance, Thriller",2016,8.1,test
+Mommy,Drama,2014,8.1,train
+Haider,"Action, Crime, Drama",2014,8.1,train
+Logan,"Action, Drama, Sci-Fi",2017,8.1,train
+Room,"Drama, Thriller",2015,8.1,train
+Relatos salvajes,"Comedy, Drama, Thriller",2014,8.1,train
+Soul,"Animation, Adventure, Comedy",2020,8.1,train
+Kis Uykusu,Drama,2014,8.1,train
+PK,"Comedy, Drama, Musical",2014,8.1,train
+OMG: Oh My God!,"Comedy, Drama, Fantasy",2012,8.1,test
+The Grand Budapest Hotel,"Adventure, Comedy, Crime",2014,8.1,test
+Gone Girl,"Drama, Mystery, Thriller",2014,8.1,test
+Ôkami kodomo no Ame to Yuki,"Animation, Drama, Fantasy",2012,8.1,train
+Hacksaw Ridge,"Biography, Drama, History",2016,8.1,train
+Inside Out,"Animation, Adventure, Comedy",2015,8.1,test
+Barfi!,"Comedy, Drama, Romance",2012,8.1,train
+12 Years a Slave,"Biography, Drama, History",2013,8.1,test
+Rush,"Action, Biography, Drama",2013,8.1,train
+Ford v Ferrari,"Action, Biography, Drama",2019,8.1,train
+Spotlight,"Biography, Crime, Drama",2015,8.1,test
+Song of the Sea,"Animation, Adventure, Drama",2014,8.1,train
+Kahaani,"Mystery, Thriller",2012,8.1,train
+Zindagi Na Milegi Dobara,"Comedy, Drama",2011,8.1,test
+Prisoners,"Crime, Drama, Mystery",2013,8.1,train
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi",2015,8.1,train
+A Wednesday,"Action, Crime, Drama",2008,8.1,train
+Gran Torino,Drama,2008,8.1,train
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy",2011,8.1,train
+Okuribito,"Drama, Music",2008,8.1,train
+Hachi: A Dog's Tale,"Biography, Drama, Family",2009,8.1,train
+Mary and Max,"Animation, Comedy, Drama",2009,8.1,train
+How to Train Your Dragon,"Animation, Action, Adventure",2010,8.1,train
+Into the Wild,"Adventure, Biography, Drama",2007,8.1,train
+No Country for Old Men,"Crime, Drama, Thriller",2007,8.1,train
+Lage Raho Munna Bhai,"Comedy, Drama, Romance",2006,8.1,train
+Million Dollar Baby,"Drama, Sport",2004,8.1,train
+Hotel Rwanda,"Biography, Drama, History",2004,8.1,test
+Taegukgi hwinalrimyeo,"Action, Drama, War",2004,8.1,train
+Before Sunset,"Drama, Romance",2004,8.1,test
+Munna Bhai M.B.B.S.,"Comedy, Drama, Musical",2003,8.1,train
+Salinui chueok,"Crime, Drama, Mystery",2003,8.1,train
+Dil Chahta Hai,"Comedy, Drama, Romance",2001,8.1,train
+Kill Bill: Vol. 1,"Action, Crime, Drama",2003,8.1,train
+Finding Nemo,"Animation, Adventure, Comedy",2003,8.1,train
+Catch Me If You Can,"Biography, Crime, Drama",2002,8.1,train
+Amores perros,"Drama, Thriller",2000,8.1,test
+"Monsters, Inc.","Animation, Adventure, Comedy",2001,8.1,train
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni","Animation, Action, Drama",1997,8.1,train
+Lagaan: Once Upon a Time in India,"Adventure, Drama, Musical",2001,8.1,test
+The Sixth Sense,"Drama, Mystery, Thriller",1999,8.1,train
+La leggenda del pianista sull'oceano,"Drama, Music, Romance",1998,8.1,train
+The Truman Show,"Comedy, Drama",1998,8.1,train
+"Crna macka, beli macor","Comedy, Crime, Romance",1998,8.1,train
+The Big Lebowski,"Comedy, Crime, Sport",1998,8.1,train
+Fa yeung nin wah,"Drama, Romance",2000,8.1,train
+Trainspotting,Drama,1996,8.1,test
+Fargo,"Crime, Drama, Thriller",1996,8.1,train
+Underground,"Comedy, Drama, War",1995,8.1,test
+La haine,"Crime, Drama",1995,8.1,train
+Dilwale Dulhania Le Jayenge,"Drama, Romance",1995,8.1,train
+Before Sunrise,"Drama, Romance",1995,8.1,test
+Trois couleurs: Rouge,"Drama, Mystery, Romance",1994,8.1,test
+Chung Hing sam lam,"Comedy, Crime, Drama",1994,8.1,test
+Jurassic Park,"Action, Adventure, Sci-Fi",1993,8.1,train
+In the Name of the Father,"Biography, Crime, Drama",1993,8.1,train
+Ba wang bie ji,"Drama, Music, Romance",1993,8.1,train
+Dà hóng denglong gaogao guà,"Drama, History, Romance",1991,8.1,test
+Dead Poets Society,"Comedy, Drama",1989,8.1,train
+Stand by Me,"Adventure, Drama",1986,8.1,train
+Platoon,"Drama, War",1986,8.1,train
+"Paris, Texas",Drama,1984,8.1,train
+Kaze no tani no Naushika,"Animation, Adventure, Fantasy",1984,8.1,train
+The Thing,"Horror, Mystery, Sci-Fi",1982,8.1,train
+Pink Floyd: The Wall,"Drama, Fantasy, Music",1982,8.1,train
+Fitzcarraldo,"Adventure, Drama",1982,8.1,train
+Fanny och Alexander,Drama,1982,8.1,train
+Blade Runner,"Action, Sci-Fi, Thriller",1982,8.1,test
+The Elephant Man,"Biography, Drama",1980,8.1,train
+Life of Brian,Comedy,1979,8.1,test
+The Deer Hunter,"Drama, War",1978,8.1,train
+Rocky,"Drama, Sport",1976,8.1,train
+Network,Drama,1976,8.1,test
+Barry Lyndon,"Adventure, Drama, History",1975,8.1,test
+Zerkalo,"Biography, Drama",1975,8.1,train
+Chinatown,"Drama, Mystery, Thriller",1974,8.1,train
+Paper Moon,"Comedy, Crime, Drama",1973,8.1,train
+Viskningar och rop,Drama,1972,8.1,train
+Solaris,"Drama, Mystery, Sci-Fi",1972,8.1,train
+Le samouraï,"Crime, Drama, Mystery",1967,8.1,train
+Cool Hand Luke,"Crime, Drama",1967,8.1,train
+Persona,"Drama, Thriller",1966,8.1,test
+Andrei Rublev,"Biography, Drama, History",1966,8.1,train
+La battaglia di Algeri,"Drama, War",1966,8.1,train
+El ángel exterminador,"Drama, Fantasy",1962,8.1,test
+What Ever Happened to Baby Jane?,"Drama, Horror, Thriller",1962,8.1,train
+Sanjuro,"Action, Comedy, Crime",1962,8.1,test
+The Man Who Shot Liberty Valance,"Drama, Western",1962,8.1,train
+Ivanovo detstvo,"Drama, War",1962,8.1,test
+Jungfrukällan,Drama,1960,8.1,train
+Inherit the Wind,"Biography, Drama, History",1960,8.1,test
+Les quatre cents coups,"Crime, Drama",1959,8.1,test
+Ben-Hur,"Adventure, Drama, History",1959,8.1,train
+Kakushi-toride no san-akunin,"Adventure, Drama",1958,8.1,train
+Le notti di Cabiria,Drama,1957,8.1,train
+Kumonosu-jô,"Drama, History",1957,8.1,train
+The Bridge on the River Kwai,"Adventure, Drama, War",1957,8.1,train
+On the Waterfront,"Crime, Drama, Thriller",1954,8.1,train
+Le salaire de la peur,"Adventure, Drama, Thriller",1953,8.1,train
+Ace in the Hole,"Drama, Film-Noir",1951,8.1,test
+White Heat,"Action, Crime, Drama",1949,8.1,train
+The Third Man,"Film-Noir, Mystery, Thriller",1949,8.1,test
+The Red Shoes,"Drama, Music, Romance",1948,8.1,test
+The Shop Around the Corner,"Comedy, Drama, Romance",1940,8.1,train
+Rebecca,"Drama, Mystery, Romance",1940,8.1,test
+Mr. Smith Goes to Washington,"Comedy, Drama",1939,8.1,train
+Gone with the Wind,"Drama, History, Romance",1939,8.1,test
+La Grande Illusion,"Drama, War",1937,8.1,train
+It Happened One Night,"Comedy, Romance",1934,8.1,train
+La passion de Jeanne d'Arc,"Biography, Drama, History",1928,8.1,train
+The Circus,"Comedy, Romance",1928,8.1,test
+Sunrise: A Song of Two Humans,"Drama, Romance",1927,8.1,test
+The General,"Action, Adventure, Comedy",1926,8.1,train
+Das Cabinet des Dr. Caligari,"Fantasy, Horror, Mystery",1920,8.1,test
+Badhaai ho,"Comedy, Drama",2018,8.0,train
+Togo,"Adventure, Biography, Drama",2019,8.0,train
+Airlift,"Drama, History",2016,8.0,train
+Bajrangi Bhaijaan,"Action, Adventure, Comedy",2015,8.0,train
+Baby,"Action, Crime, Thriller",2015,8.0,train
+La La Land,"Comedy, Drama, Music",2016,8.0,test
+Lion,"Biography, Drama",2016,8.0,test
+The Martian,"Adventure, Drama, Sci-Fi",2015,8.0,train
+Zootopia,"Animation, Adventure, Comedy",2016,8.0,train
+Bãhubali: The Beginning,"Action, Drama",2015,8.0,train
+Kaguyahime no monogatari,"Animation, Adventure, Drama",2013,8.0,test
+Wonder,"Drama, Family",2017,8.0,train
+Gully Boy,"Drama, Music, Romance",2019,8.0,train
+Special Chabbis,"Crime, Drama, Thriller",2013,8.0,train
+Short Term 12,Drama,2013,8.0,train
+Serbuan maut 2: Berandal,"Action, Crime, Thriller",2014,8.0,train
+The Imitation Game,"Biography, Drama, Thriller",2014,8.0,train
+Guardians of the Galaxy,"Action, Adventure, Comedy",2014,8.0,train
+Blade Runner 2049,"Action, Drama, Mystery",2017,8.0,train
+Her,"Drama, Romance, Sci-Fi",2013,8.0,train
+Bohemian Rhapsody,"Biography, Drama, Music",2018,8.0,train
+The Revenant,"Action, Adventure, Drama",2015,8.0,train
+The Perks of Being a Wallflower,"Drama, Romance",2012,8.0,train
+Tropa de Elite 2: O Inimigo Agora é Outro,"Action, Crime, Drama",2010,8.0,train
+The King's Speech,"Biography, Drama, History",2010,8.0,test
+The Help,Drama,2011,8.0,train
+Deadpool,"Action, Adventure, Comedy",2016,8.0,train
+Darbareye Elly,"Drama, Mystery",2009,8.0,train
+Dev.D,"Drama, Romance",2009,8.0,train
+Yip Man,"Action, Biography, Drama",2008,8.0,test
+My Name Is Khan,Drama,2010,8.0,train
+Nefes: Vatan Sagolsun,"Action, Drama, Thriller",2009,8.0,train
+Slumdog Millionaire,"Drama, Romance",2008,8.0,train
+Black Swan,"Drama, Thriller",2010,8.0,test
+Tropa de Elite,"Action, Crime, Drama",2007,8.0,train
+The Avengers,"Action, Adventure, Sci-Fi",2012,8.0,train
+Persepolis,"Animation, Biography, Drama",2007,8.0,train
+Dallas Buyers Club,"Biography, Drama",2013,8.0,train
+The Pursuit of Happyness,"Biography, Drama",2006,8.0,train
+Blood Diamond,"Adventure, Drama, Thriller",2006,8.0,test
+The Bourne Ultimatum,"Action, Mystery, Thriller",2007,8.0,train
+Bin-jip,"Crime, Drama, Romance",2004,8.0,test
+Sin City,"Crime, Thriller",2005,8.0,train
+Le scaphandre et le papillon,"Biography, Drama",2007,8.0,test
+G.O.R.A.,"Adventure, Comedy, Sci-Fi",2004,8.0,train
+Ratatouille,"Animation, Adventure, Comedy",2007,8.0,train
+Casino Royale,"Action, Adventure, Thriller",2006,8.0,train
+Kill Bill: Vol. 2,"Action, Crime, Thriller",2004,8.0,train
+Vozvrashchenie,Drama,2003,8.0,test
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,"Drama, Romance",2003,8.0,test
+Mar adentro,"Biography, Drama",2014,8.0,train
+Cinderella Man,"Biography, Drama, History",2005,8.0,train
+Kal Ho Naa Ho,"Comedy, Drama, Musical",2003,8.0,train
+Mou gaan dou,"Action, Crime, Drama",2002,8.0,train
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy",2003,8.0,train
+Big Fish,"Adventure, Drama, Fantasy",2003,8.0,test
+The Incredibles,"Animation, Action, Adventure",2004,8.0,train
+Yeopgijeogin geunyeo,"Comedy, Drama, Romance",2001,8.0,train
+Dogville,"Crime, Drama",2003,8.0,train
+Vizontele,"Comedy, Drama",2001,8.0,train
+Donnie Darko,"Drama, Mystery, Sci-Fi",2001,8.0,test
+Magnolia,Drama,1999,8.0,train
+Dancer in the Dark,"Crime, Drama, Musical",2000,8.0,train
+The Straight Story,"Biography, Drama",1999,8.0,train
+Pâfekuto burû,"Animation, Crime, Mystery",1997,8.0,train
+Festen,Drama,1998,8.0,train
+Central do Brasil,Drama,1998,8.0,train
+The Iron Giant,"Animation, Action, Adventure",1999,8.0,train
+Knockin' on Heaven's Door,"Action, Crime, Comedy",1997,8.0,train
+Sling Blade,Drama,1996,8.0,train
+Secrets & Lies,"Comedy, Drama",1996,8.0,train
+Twelve Monkeys,"Mystery, Sci-Fi, Thriller",1995,8.0,train
+Kôkaku Kidôtai,"Animation, Action, Crime",1995,8.0,train
+The Nightmare Before Christmas,"Animation, Family, Fantasy",1993,8.0,train
+Groundhog Day,"Comedy, Fantasy, Romance",1993,8.0,train
+Bound by Honor,"Crime, Drama",1993,8.0,train
+Scent of a Woman,Drama,1992,8.0,train
+Aladdin,"Animation, Adventure, Comedy",1992,8.0,train
+JFK,"Drama, History, Thriller",1991,8.0,train
+Beauty and the Beast,"Animation, Family, Fantasy",1991,8.0,train
+Dances with Wolves,"Adventure, Drama, Western",1990,8.0,train
+Do the Right Thing,"Comedy, Drama",1989,8.0,train
+Rain Man,Drama,1988,8.0,train
+Akira,"Animation, Action, Sci-Fi",1988,8.0,train
+The Princess Bride,"Adventure, Family, Fantasy",1987,8.0,train
+Der Himmel über Berlin,"Drama, Fantasy, Romance",1987,8.0,train
+Au revoir les enfants,"Drama, War",1987,8.0,test
+Tenkû no shiro Rapyuta,"Animation, Adventure, Drama",1986,8.0,train
+The Terminator,"Action, Sci-Fi",1984,8.0,train
+Gandhi,"Biography, Drama, History",1982,8.0,test
+Kagemusha,"Drama, History, War",1980,8.0,train
+Being There,"Comedy, Drama",1979,8.0,train
+Annie Hall,"Comedy, Romance",1977,8.0,train
+Jaws,"Adventure, Thriller",1975,8.0,train
+Dog Day Afternoon,"Biography, Crime, Drama",1975,8.0,train
+Young Frankenstein,Comedy,1974,8.0,train
+Papillon,"Biography, Crime, Drama",1973,8.0,train
+The Exorcist,Horror,1973,8.0,train
+Sleuth,"Mystery, Thriller",1972,8.0,train
+The Last Picture Show,"Drama, Romance",1971,8.0,train
+Fiddler on the Roof,"Drama, Family, Musical",1971,8.0,train
+Il conformista,Drama,1970,8.0,train
+Butch Cassidy and the Sundance Kid,"Biography, Crime, Drama",1969,8.0,train
+Rosemary's Baby,"Drama, Horror",1968,8.0,test
+Planet of the Apes,"Adventure, Sci-Fi",1968,8.0,train
+The Graduate,"Comedy, Drama, Romance",1967,8.0,train
+Who's Afraid of Virginia Woolf?,Drama,1966,8.0,train
+The Sound of Music,"Biography, Drama, Family",1965,8.0,test
+Doctor Zhivago,"Drama, Romance, War",1965,8.0,train
+Per un pugno di dollari,"Action, Drama, Western",1964,8.0,train
+8½,Drama,1963,8.0,test
+Vivre sa vie: Film en douze tableaux,Drama,1962,8.0,train
+The Hustler,"Drama, Sport",1961,8.0,train
+La dolce vita,"Comedy, Drama",1960,8.0,train
+Rio Bravo,"Action, Drama, Western",1959,8.0,test
+Anatomy of a Murder,"Crime, Drama, Mystery",1959,8.0,train
+Touch of Evil,"Crime, Drama, Film-Noir",1958,8.0,train
+Cat on a Hot Tin Roof,Drama,1958,8.0,test
+Sweet Smell of Success,"Drama, Film-Noir",1957,8.0,train
+The Killing,"Crime, Drama, Film-Noir",1956,8.0,train
+The Night of the Hunter,"Crime, Drama, Film-Noir",1955,8.0,train
+La Strada,Drama,1954,8.0,train
+Les diaboliques,"Crime, Drama, Horror",1955,8.0,train
+Stalag 17,"Comedy, Drama, War",1953,8.0,test
+Roman Holiday,"Comedy, Romance",1953,8.0,train
+A Streetcar Named Desire,Drama,1951,8.0,train
+In a Lonely Place,"Drama, Film-Noir, Mystery",1950,8.0,train
+Kind Hearts and Coronets,"Comedy, Crime",1949,8.0,train
+Rope,"Crime, Drama, Mystery",1948,8.0,train
+Out of the Past,"Crime, Drama, Film-Noir",1947,8.0,test
+Brief Encounter,"Drama, Romance",1945,8.0,train
+Laura,"Drama, Film-Noir, Mystery",1944,8.0,train
+The Best Years of Our Lives,"Drama, Romance, War",1946,8.0,train
+Arsenic and Old Lace,"Comedy, Crime, Thriller",1942,8.0,train
+The Maltese Falcon,"Film-Noir, Mystery",1941,8.0,train
+The Grapes of Wrath,"Drama, History",1940,8.0,train
+The Wizard of Oz,"Adventure, Family, Fantasy",1939,8.0,train
+La règle du jeu,"Comedy, Drama",1939,8.0,train
+The Thin Man,"Comedy, Crime, Mystery",1934,8.0,train
+All Quiet on the Western Front,"Drama, War",1930,8.0,train
+Bronenosets Potemkin,"Drama, History, Thriller",1925,8.0,test
+Knives Out,"Comedy, Crime, Drama",2019,7.9,train
+Dil Bechara,"Comedy, Drama, Romance",2020,7.9,train
+Manbiki kazoku,"Crime, Drama",2018,7.9,train
+Marriage Story,"Comedy, Drama, Romance",2019,7.9,train
+Call Me by Your Name,"Drama, Romance",2017,7.9,train
+"I, Daniel Blake",Drama,2016,7.9,train
+Isle of Dogs,"Animation, Adventure, Comedy",2018,7.9,train
+Hunt for the Wilderpeople,"Adventure, Comedy, Drama",2016,7.9,train
+Captain Fantastic,"Comedy, Drama",2016,7.9,train
+Sing Street,"Comedy, Drama, Music",2016,7.9,train
+Thor: Ragnarok,"Action, Adventure, Comedy",2017,7.9,train
+Nightcrawler,"Crime, Drama, Thriller",2014,7.9,train
+Jojo Rabbit,"Comedy, Drama, War",2019,7.9,train
+Arrival,"Drama, Sci-Fi",2016,7.9,train
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi",2015,7.9,train
+Before Midnight,"Drama, Romance",2013,7.9,train
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi",2014,7.9,test
+Bir Zamanlar Anadolu'da,"Crime, Drama",2011,7.9,train
+The Artist,"Comedy, Drama, Romance",2011,7.9,train
+Edge of Tomorrow,"Action, Adventure, Sci-Fi",2014,7.9,train
+Amour,"Drama, Romance",2012,7.9,train
+The Irishman,"Biography, Crime, Drama",2019,7.9,train
+Un prophète,"Crime, Drama",2009,7.9,train
+Moon,"Drama, Mystery, Sci-Fi",2009,7.9,test
+Låt den rätte komma in,"Crime, Drama, Fantasy",2008,7.9,train
+District 9,"Action, Sci-Fi, Thriller",2009,7.9,train
+The Wrestler,"Drama, Sport",2008,7.9,train
+Jab We Met,"Comedy, Drama, Romance",2007,7.9,train
+Boyhood,Drama,2014,7.9,train
+"4 luni, 3 saptamâni si 2 zile",Drama,2007,7.9,train
+Star Trek,"Action, Adventure, Sci-Fi",2009,7.9,test
+In Bruges,"Comedy, Crime, Drama",2008,7.9,test
+The Man from Earth,"Drama, Fantasy, Mystery",2007,7.9,train
+Letters from Iwo Jima,"Action, Adventure, Drama",2006,7.9,train
+The Fall,"Adventure, Drama, Fantasy",2006,7.9,train
+Life of Pi,"Adventure, Drama, Fantasy",2012,7.9,train
+Fantastic Mr. Fox,"Animation, Adventure, Comedy",2009,7.9,test
+C.R.A.Z.Y.,"Comedy, Drama",2005,7.9,train
+Les choristes,"Drama, Music",2004,7.9,train
+Iron Man,"Action, Adventure, Sci-Fi",2008,7.9,train
+Shaun of the Dead,"Comedy, Horror",2004,7.9,train
+Gegen die Wand,"Drama, Romance",2004,7.9,train
+Mystic River,"Crime, Drama, Mystery",2003,7.9,train
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy",2004,7.9,train
+Ying xiong,"Action, Adventure, History",2002,7.9,train
+Hable con ella,"Drama, Mystery, Romance",2002,7.9,train
+No Man's Land,"Comedy, Drama, War",2001,7.9,train
+Cowboy Bebop: Tengoku no tobira,"Animation, Action, Crime",2001,7.9,train
+The Bourne Identity,"Action, Mystery, Thriller",2002,7.9,train
+Nueve reinas,"Crime, Drama, Thriller",2000,7.9,train
+Children of Men,"Adventure, Drama, Sci-Fi",2006,7.9,test
+Almost Famous,"Adventure, Comedy, Drama",2000,7.9,train
+Mulholland Dr.,"Drama, Mystery, Thriller",2001,7.9,train
+Toy Story 2,"Animation, Adventure, Comedy",1999,7.9,train
+Boogie Nights,Drama,1997,7.9,train
+Mimi wo sumaseba,"Animation, Drama, Family",1995,7.9,train
+Once Were Warriors,"Crime, Drama",1994,7.9,train
+True Romance,"Crime, Drama, Romance",1993,7.9,train
+Trois couleurs: Bleu,"Drama, Music, Mystery",1993,7.9,test
+Jûbê ninpûchô,"Animation, Action, Adventure",1993,7.9,test
+Carlito's Way,"Crime, Drama, Thriller",1993,7.9,train
+Edward Scissorhands,"Drama, Fantasy, Romance",1990,7.9,train
+My Left Foot: The Story of Christy Brown,"Biography, Drama",1989,7.9,train
+Crimes and Misdemeanors,"Comedy, Drama",1989,7.9,test
+The Untouchables,"Crime, Drama, Thriller",1987,7.9,test
+Hannah and Her Sisters,"Comedy, Drama",1986,7.9,test
+Brazil,"Drama, Sci-Fi",1985,7.9,test
+This Is Spinal Tap,"Comedy, Music",1984,7.9,train
+A Christmas Story,"Comedy, Family",1983,7.9,train
+The Blues Brothers,"Action, Adventure, Comedy",1980,7.9,train
+Manhattan,"Comedy, Drama, Romance",1979,7.9,train
+All That Jazz,"Drama, Music, Musical",1979,7.9,test
+Dawn of the Dead,"Action, Adventure, Horror",1978,7.9,train
+All the President's Men,"Biography, Drama, History",1976,7.9,train
+La montaña sagrada,"Adventure, Drama, Fantasy",1973,7.9,train
+Amarcord,"Comedy, Drama, Family",1973,7.9,train
+Le charme discret de la bourgeoisie,Comedy,1972,7.9,train
+"Aguirre, der Zorn Gottes","Action, Adventure, Biography",1972,7.9,train
+Harold and Maude,"Comedy, Drama, Romance",1971,7.9,train
+Patton,"Biography, Drama, War",1970,7.9,test
+The Wild Bunch,"Action, Adventure, Western",1969,7.9,test
+Night of the Living Dead,"Horror, Thriller",1968,7.9,train
+The Lion in Winter,"Biography, Drama, History",1968,7.9,train
+In the Heat of the Night,"Crime, Drama, Mystery",1967,7.9,train
+Charade,"Comedy, Mystery, Romance",1963,7.9,train
+The Manchurian Candidate,"Drama, Thriller",1962,7.9,test
+Spartacus,"Adventure, Biography, Drama",1960,7.9,test
+L'avventura,"Drama, Mystery",1960,7.9,train
+Hiroshima mon amour,"Drama, Romance",1959,7.9,train
+The Ten Commandments,"Adventure, Drama",1956,7.9,train
+The Searchers,"Adventure, Drama, Western",1956,7.9,train
+East of Eden,Drama,1955,7.9,test
+High Noon,"Drama, Thriller, Western",1952,7.9,train
+Strangers on a Train,"Crime, Film-Noir, Thriller",1951,7.9,train
+Harvey,"Comedy, Drama, Fantasy",1950,7.9,train
+Miracle on 34th Street,"Comedy, Drama, Family",1947,7.9,train
+Notorious,"Drama, Film-Noir, Romance",1946,7.9,test
+The Big Sleep,"Crime, Film-Noir, Mystery",1946,7.9,train
+The Lost Weekend,"Drama, Film-Noir",1945,7.9,train
+The Philadelphia Story,"Comedy, Romance",1940,7.9,train
+His Girl Friday,"Comedy, Drama, Romance",1940,7.9,train
+The Adventures of Robin Hood,"Action, Adventure, Romance",1938,7.9,train
+A Night at the Opera,"Comedy, Music, Musical",1935,7.9,train
+King Kong,"Adventure, Horror, Sci-Fi",1933,7.9,train
+Freaks,"Drama, Horror",1932,7.9,train
+Nosferatu,"Fantasy, Horror",1922,7.9,train
+The Gentlemen,"Action, Comedy, Crime",2019,7.8,train
+Raazi,"Action, Drama, Thriller",2018,7.8,test
+Sound of Metal,"Drama, Music",2019,7.8,train
+Forushande,Drama,2016,7.8,train
+Dunkirk,"Action, Drama, History",2017,7.8,train
+Perfetti sconosciuti,"Comedy, Drama",2016,7.8,train
+Hidden Figures,"Biography, Drama, History",2016,7.8,train
+Paddington 2,"Adventure, Comedy, Family",2017,7.8,train
+Udta Punjab,"Action, Crime, Drama",2016,7.8,train
+Kubo and the Two Strings,"Animation, Action, Adventure",2016,7.8,test
+M.S. Dhoni: The Untold Story,"Biography, Drama, Sport",2016,7.8,train
+Manchester by the Sea,Drama,2016,7.8,train
+Under sandet,"Drama, History, War",2015,7.8,train
+Rogue One,"Action, Adventure, Sci-Fi",2016,7.8,train
+Captain America: Civil War,"Action, Adventure, Sci-Fi",2016,7.8,test
+The Hateful Eight,"Crime, Drama, Mystery",2015,7.8,test
+Little Women,"Drama, Romance",2019,7.8,train
+Loving Vincent,"Animation, Biography, Crime",2017,7.8,train
+Pride,"Biography, Comedy, Drama",2014,7.8,train
+Le passé,"Drama, Mystery",2013,7.8,train
+La grande bellezza,Drama,2013,7.8,test
+The Lunchbox,"Drama, Romance",2013,7.8,test
+Vicky Donor,"Comedy, Romance",2012,7.8,train
+Big Hero 6,"Animation, Action, Adventure",2014,7.8,train
+About Time,"Comedy, Drama, Fantasy",2013,7.8,train
+English Vinglish,"Comedy, Drama, Family",2012,7.8,train
+Kaze tachinu,"Animation, Biography, Drama",2013,7.8,test
+Toy Story 4,"Animation, Adventure, Comedy",2019,7.8,train
+La migliore offerta,"Crime, Drama, Mystery",2013,7.8,train
+Moonrise Kingdom,"Comedy, Drama, Romance",2012,7.8,train
+How to Train Your Dragon 2,"Animation, Action, Adventure",2014,7.8,test
+The Big Short,"Biography, Comedy, Drama",2015,7.8,train
+Kokuhaku,"Drama, Thriller",2010,7.8,test
+Ang-ma-reul bo-at-da,"Action, Crime, Drama",2010,7.8,train
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery",2011,7.8,train
+Captain Phillips,"Adventure, Biography, Crime",2013,7.8,test
+Ajeossi,"Action, Crime, Drama",2010,7.8,train
+Straight Outta Compton,"Biography, Drama, History",2015,7.8,train
+Madeo,"Crime, Drama, Mystery",2009,7.8,train
+Chugyeokja,"Action, Crime, Thriller",2008,7.8,train
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy",2013,7.8,train
+Das weiße Band - Eine deutsche Kindergeschichte,"Drama, History, Mystery",2009,7.8,train
+Män som hatar kvinnor,"Crime, Drama, Mystery",2009,7.8,train
+The Trial of the Chicago 7,"Drama, History, Thriller",2020,7.8,train
+Druk,"Comedy, Drama",2020,7.8,test
+The Fighter,"Biography, Drama, Sport",2010,7.8,train
+Taken,"Action, Thriller",2008,7.8,train
+The Boy in the Striped Pyjamas,"Drama, History, War",2008,7.8,train
+Once,"Drama, Music, Romance",2007,7.8,test
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy",2012,7.8,train
+Auf der anderen Seite,Drama,2007,7.8,train
+Atonement,"Drama, Mystery, Romance",2007,7.8,train
+Drive,"Crime, Drama",2011,7.8,test
+American Gangster,"Biography, Crime, Drama",2007,7.8,train
+Avatar,"Action, Adventure, Fantasy",2009,7.8,train
+Mr. Nobody,"Drama, Fantasy, Romance",2009,7.8,train
+Apocalypto,"Action, Adventure, Drama",2006,7.8,train
+Little Miss Sunshine,"Comedy, Drama",2006,7.8,test
+Hot Fuzz,"Action, Comedy, Mystery",2007,7.8,train
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance",2008,7.8,train
+Veer-Zaara,"Drama, Family, Musical",2004,7.8,train
+Adams æbler,"Comedy, Crime, Drama",2005,7.8,train
+Pride & Prejudice,"Drama, Romance",2005,7.8,train
+The World's Fastest Indian,"Biography, Drama, Sport",2005,7.8,train
+Tôkyô goddofâzâzu,"Animation, Adventure, Comedy",2003,7.8,train
+Serenity,"Action, Adventure, Sci-Fi",2005,7.8,train
+Walk the Line,"Biography, Drama, Music",2005,7.8,test
+Ondskan,Drama,2003,7.8,test
+The Notebook,"Drama, Romance",2004,7.8,train
+Diarios de motocicleta,"Adventure, Biography, Drama",2004,7.8,train
+Lilja 4-ever,"Crime, Drama",2002,7.8,train
+Les triplettes de Belleville,"Animation, Comedy, Drama",2003,7.8,train
+Gongdong gyeongbi guyeok JSA,"Action, Drama, Thriller",2000,7.8,train
+The Count of Monte Cristo,"Action, Adventure, Drama",2002,7.8,train
+Waking Life,"Animation, Drama, Fantasy",2001,7.8,test
+Remember the Titans,"Biography, Drama, Sport",2000,7.8,test
+Wo hu cang long,"Action, Adventure, Fantasy",2000,7.8,train
+Todo sobre mi madre,Drama,1999,7.8,train
+Cast Away,"Adventure, Drama, Romance",2000,7.8,train
+The Boondock Saints,"Action, Crime, Thriller",1999,7.8,train
+The Insider,"Biography, Drama, Thriller",1999,7.8,test
+October Sky,"Biography, Drama, Family",1999,7.8,test
+Shrek,"Animation, Adventure, Comedy",2001,7.8,train
+Titanic,"Drama, Romance",1997,7.8,test
+Hana-bi,"Crime, Drama, Romance",1997,7.8,train
+Gattaca,"Drama, Sci-Fi, Thriller",1997,7.8,train
+The Game,"Action, Drama, Mystery",1997,7.8,train
+Breaking the Waves,Drama,1996,7.8,test
+Ed Wood,"Biography, Comedy, Drama",1994,7.8,train
+What's Eating Gilbert Grape,Drama,1993,7.8,train
+Tombstone,"Action, Biography, Drama",1993,7.8,train
+The Sandlot,"Comedy, Drama, Family",1993,7.8,test
+The Remains of the Day,"Drama, Romance",1993,7.8,train
+Naked,"Comedy, Drama",1993,7.8,test
+The Fugitive,"Action, Crime, Drama",1993,7.8,train
+A Bronx Tale,"Crime, Drama, Romance",1993,7.8,train
+Batman: Mask of the Phantasm,"Animation, Action, Crime",1993,7.8,train
+Lat sau san taam,"Action, Crime, Thriller",1992,7.8,train
+Night on Earth,"Comedy, Drama",1991,7.8,train
+La double vie de Véronique,"Drama, Fantasy, Music",1991,7.8,test
+Boyz n the Hood,"Crime, Drama",1991,7.8,train
+Misery,"Drama, Thriller",1990,7.8,test
+Awakenings,"Biography, Drama",1990,7.8,train
+Majo no takkyûbin,"Animation, Adventure, Drama",1989,7.8,train
+Glory,"Biography, Drama, History",1989,7.8,train
+Dip huet seung hung,"Action, Crime, Drama",1989,7.8,train
+Back to the Future Part II,"Adventure, Comedy, Sci-Fi",1989,7.8,train
+Mississippi Burning,"Crime, Drama, History",1988,7.8,train
+Predator,"Action, Adventure, Sci-Fi",1987,7.8,test
+Evil Dead II,"Action, Comedy, Fantasy",1987,7.8,test
+Ferris Bueller's Day Off,Comedy,1986,7.8,test
+Down by Law,"Comedy, Crime, Drama",1986,7.8,train
+The Goonies,"Adventure, Comedy, Family",1985,7.8,train
+The Color Purple,Drama,1985,7.8,train
+The Breakfast Club,"Comedy, Drama",1985,7.8,train
+The Killing Fields,"Biography, Drama, History",1984,7.8,train
+Ghostbusters,"Action, Comedy, Fantasy",1984,7.8,train
+The Right Stuff,"Adventure, Biography, Drama",1983,7.8,train
+The King of Comedy,"Comedy, Crime, Drama",1982,7.8,test
+E.T. the Extra-Terrestrial,"Family, Sci-Fi",1982,7.8,train
+Kramer vs. Kramer,Drama,1979,7.8,test
+Days of Heaven,"Drama, Romance",1978,7.8,train
+The Outlaw Josey Wales,Western,1976,7.8,train
+The Man Who Would Be King,"Adventure, History, War",1975,7.8,test
+The Conversation,"Drama, Mystery, Thriller",1974,7.8,train
+La planète sauvage,"Animation, Sci-Fi",1973,7.8,train
+The Day of the Jackal,"Crime, Drama, Thriller",1973,7.8,train
+Badlands,"Action, Crime, Drama",1973,7.8,train
+Cabaret,"Drama, Music, Musical",1972,7.8,test
+Willy Wonka & the Chocolate Factory,"Family, Fantasy, Musical",1971,7.8,train
+Midnight Cowboy,Drama,1969,7.8,train
+Wait Until Dark,Thriller,1967,7.8,train
+Guess Who's Coming to Dinner,"Comedy, Drama",1967,7.8,train
+Bonnie and Clyde,"Action, Biography, Crime",1967,7.8,train
+My Fair Lady,"Drama, Family, Musical",1964,7.8,train
+Mary Poppins,"Comedy, Family, Fantasy",1964,7.8,train
+The Longest Day,"Action, Drama, History",1962,7.8,train
+Jules et Jim,"Drama, Romance",1962,7.8,train
+The Innocents,Horror,1961,7.8,train
+À bout de souffle,"Crime, Drama",1960,7.8,train
+Red River,"Action, Adventure, Drama",1948,7.8,train
+Key Largo,"Action, Crime, Drama",1948,7.8,train
+To Have and Have Not,"Adventure, Comedy, Film-Noir",1944,7.8,train
+Shadow of a Doubt,"Film-Noir, Thriller",1943,7.8,train
+Stagecoach,"Adventure, Drama, Western",1939,7.8,test
+The Lady Vanishes,"Mystery, Thriller",1938,7.8,test
+Bringing Up Baby,"Comedy, Family, Romance",1938,7.8,train
+Bride of Frankenstein,"Drama, Horror, Sci-Fi",1935,7.8,test
+Duck Soup,"Comedy, Musical, War",1933,7.8,train
+Scarface: The Shame of the Nation,"Action, Crime, Drama",1932,7.8,train
+Frankenstein,"Drama, Horror, Sci-Fi",1931,7.8,train
+Roma,Drama,2018,7.7,train
+God's Own Country,"Drama, Romance",2017,7.7,test
+Deadpool 2,"Action, Adventure, Comedy",2018,7.7,train
+Wind River,"Crime, Drama, Mystery",2017,7.7,train
+Get Out,"Horror, Mystery, Thriller",2017,7.7,train
+Mission: Impossible - Fallout,"Action, Adventure, Thriller",2018,7.7,train
+En man som heter Ove,"Comedy, Drama, Romance",2015,7.7,train
+What We Do in the Shadows,"Comedy, Horror",2014,7.7,train
+Omoide no Mânî,"Animation, Drama, Family",2014,7.7,train
+The Theory of Everything,"Biography, Drama, Romance",2014,7.7,train
+Kingsman: The Secret Service,"Action, Adventure, Comedy",2014,7.7,train
+The Fault in Our Stars,"Drama, Romance",2014,7.7,train
+Me and Earl and the Dying Girl,"Comedy, Drama",2015,7.7,train
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama",2014,7.7,train
+La vie d'Adèle,"Drama, Romance",2013,7.7,train
+Kai po che!,"Drama, Sport",2013,7.7,train
+The Broken Circle Breakdown,"Drama, Music, Romance",2012,7.7,train
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi",2014,7.7,test
+Rockstar,"Drama, Music, Musical",2011,7.7,train
+Nebraska,"Adventure, Comedy, Drama",2013,7.7,train
+Wreck-It Ralph,"Animation, Adventure, Comedy",2012,7.7,test
+Le Petit Prince,"Animation, Adventure, Drama",2015,7.7,test
+Detachment,Drama,2011,7.7,train
+Midnight in Paris,"Comedy, Fantasy, Romance",2011,7.7,train
+The Lego Movie,"Animation, Action, Adventure",2014,7.7,train
+Gravity,"Drama, Sci-Fi, Thriller",2013,7.7,train
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi",2013,7.7,train
+Beasts of No Nation,"Drama, War",2015,7.7,train
+The Social Network,"Biography, Drama",2010,7.7,train
+X: First Class,"Action, Adventure, Sci-Fi",2011,7.7,test
+The Hangover,Comedy,2009,7.7,train
+Skyfall,"Action, Adventure, Thriller",2012,7.7,train
+Silver Linings Playbook,"Comedy, Drama, Romance",2012,7.7,train
+Argo,"Biography, Drama, Thriller",2012,7.7,test
+(500) Days of Summer,"Comedy, Drama, Romance",2009,7.7,train
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy",2010,7.7,train
+Gake no ue no Ponyo,"Animation, Adventure, Comedy",2008,7.7,train
+Frost/Nixon,"Biography, Drama, History",2008,7.7,train
+Papurika,"Animation, Drama, Fantasy",2006,7.7,train
+Changeling,"Biography, Crime, Drama",2008,7.7,train
+Flipped,"Comedy, Drama, Romance",2010,7.7,train
+Toki o kakeru shôjo,"Animation, Adventure, Comedy",2006,7.7,test
+Death Note: Desu nôto,"Crime, Drama, Fantasy",2006,7.7,train
+This Is England,"Crime, Drama",2006,7.7,train
+Ex Machina,"Drama, Sci-Fi, Thriller",2014,7.7,test
+Efter brylluppet,Drama,2006,7.7,train
+The Last King of Scotland,"Biography, Drama, History",2006,7.7,train
+Zodiac,"Crime, Drama, Mystery",2007,7.7,test
+Lucky Number Slevin,"Action, Crime, Drama",2006,7.7,train
+Joyeux Noël,"Drama, History, Music",2005,7.7,train
+Control,"Biography, Drama, Music",2007,7.7,train
+Tangled,"Animation, Adventure, Comedy",2010,7.7,train
+Zwartboek,"Drama, Thriller, War",2006,7.7,train
+Brokeback Mountain,"Drama, Romance",2005,7.7,train
+3:10 to Yuma,"Action, Crime, Drama",2007,7.7,train
+Crash,"Crime, Drama, Thriller",2004,7.7,train
+Kung fu,"Action, Comedy, Fantasy",2004,7.7,train
+The Bourne Supremacy,"Action, Mystery, Thriller",2004,7.7,train
+The Machinist,"Drama, Thriller",2004,7.7,train
+Ray,"Biography, Drama, Music",2004,7.7,train
+Lost in Translation,"Comedy, Drama",2003,7.7,train
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy",2005,7.7,train
+Man on Fire,"Action, Crime, Drama",2004,7.7,train
+Coraline,"Animation, Drama, Family",2009,7.7,train
+The Last Samurai,"Action, Drama",2003,7.7,train
+The Magdalene Sisters,Drama,2002,7.7,train
+Good Bye Lenin!,"Comedy, Drama, Romance",2003,7.7,train
+In America,Drama,2002,7.7,test
+I Am Sam,Drama,2001,7.7,train
+Adaptation.,"Comedy, Drama",2002,7.7,train
+Black Hawk Down,"Drama, History, War",2001,7.7,train
+Road to Perdition,"Crime, Drama, Thriller",2002,7.7,train
+Das Experiment,"Drama, Thriller",2001,7.7,train
+Billy Elliot,"Drama, Music",2000,7.7,train
+Hedwig and the Angry Inch,"Comedy, Drama, Music",2001,7.7,train
+Ocean's Eleven,"Crime, Thriller",2001,7.7,train
+Vampire Hunter D: Bloodlust,"Animation, Action, Fantasy",2000,7.7,train
+"O Brother, Where Art Thou?","Adventure, Comedy, Crime",2000,7.7,train
+Interstate 60: Episodes of the Road,"Adventure, Comedy, Drama",2002,7.7,train
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy",1999,7.7,train
+Office Space,Comedy,1999,7.7,test
+Happiness,"Comedy, Drama",1998,7.7,train
+Training Day,"Crime, Drama, Thriller",2001,7.7,test
+Rushmore,"Comedy, Drama, Romance",1998,7.7,train
+Abre los ojos,"Drama, Mystery, Sci-Fi",1997,7.7,train
+Being John Malkovich,"Comedy, Drama, Fantasy",1999,7.7,train
+As Good as It Gets,"Comedy, Drama, Romance",1997,7.7,train
+The Fifth Element,"Action, Adventure, Sci-Fi",1997,7.7,train
+Le dîner de cons,Comedy,1998,7.7,train
+Donnie Brasco,"Biography, Crime, Drama",1997,7.7,train
+Shine,"Biography, Drama, Music",1996,7.7,test
+Primal Fear,"Crime, Drama, Mystery",1996,7.7,test
+Hamlet,Drama,1996,7.7,train
+A Little Princess,"Drama, Family, Fantasy",1995,7.7,train
+Do lok tin si,"Comedy, Crime, Drama",1995,7.7,train
+Il postino,"Biography, Comedy, Drama",1994,7.7,train
+Clerks,Comedy,1994,7.7,test
+Short Cuts,"Comedy, Drama",1993,7.7,train
+Philadelphia,Drama,1993,7.7,train
+The Muppet Christmas Carol,"Comedy, Drama, Family",1992,7.7,train
+Malcolm X,"Biography, Drama, History",1992,7.7,test
+The Last of the Mohicans,"Action, Adventure, Drama",1992,7.7,train
+Kurenai no buta,"Animation, Adventure, Comedy",1992,7.7,test
+Glengarry Glen Ross,"Crime, Drama, Mystery",1992,7.7,test
+A Few Good Men,"Drama, Thriller",1992,7.7,train
+Fried Green Tomatoes,Drama,1991,7.7,train
+Barton Fink,"Comedy, Drama, Thriller",1991,7.7,test
+Miller's Crossing,"Crime, Drama, Thriller",1990,7.7,train
+Who Framed Roger Rabbit,"Animation, Adventure, Comedy",1988,7.7,train
+Spoorloos,"Mystery, Thriller",1988,7.7,test
+Withnail & I,"Comedy, Drama",1987,7.7,train
+The Last Emperor,"Biography, Drama, History",1987,7.7,train
+Empire of the Sun,"Action, Drama, History",1987,7.7,train
+Der Name der Rose,"Crime, Drama, Mystery",1986,7.7,train
+Blue Velvet,"Drama, Mystery, Thriller",1986,7.7,train
+The Purple Rose of Cairo,"Comedy, Fantasy, Romance",1985,7.7,train
+After Hours,"Comedy, Crime, Drama",1985,7.7,train
+Zelig,Comedy,1983,7.7,test
+The Verdict,Drama,1982,7.7,train
+Star Trek II: The Wrath of Khan,"Action, Adventure, Sci-Fi",1982,7.7,train
+First Blood,"Action, Adventure",1982,7.7,train
+Ordinary People,Drama,1980,7.7,train
+Airplane!,Comedy,1980,7.7,train
+Rupan sansei: Kariosutoro no shiro,"Animation, Adventure, Family",1979,7.7,train
+Halloween,"Horror, Thriller",1978,7.7,train
+Le locataire,"Drama, Thriller",1976,7.7,test
+Love and Death,"Comedy, War",1975,7.7,train
+The Taking of Pelham One Two Three,"Action, Crime, Thriller",1974,7.7,train
+Blazing Saddles,"Comedy, Western",1974,7.7,train
+Serpico,"Biography, Crime, Drama",1973,7.7,test
+Enter the Dragon,"Action, Crime, Drama",1973,7.7,train
+Deliverance,"Adventure, Drama, Thriller",1972,7.7,train
+The French Connection,"Action, Crime, Drama",1971,7.7,train
+Dirty Harry,"Action, Crime, Thriller",1971,7.7,train
+Where Eagles Dare,"Action, Adventure, War",1968,7.7,train
+The Odd Couple,Comedy,1968,7.7,train
+The Dirty Dozen,"Action, Adventure, War",1967,7.7,train
+Belle de jour,"Drama, Romance",1967,7.7,train
+A Man for All Seasons,"Biography, Drama, History",1966,7.7,train
+Repulsion,"Drama, Horror, Thriller",1965,7.7,test
+Zulu,"Drama, History, War",1964,7.7,train
+Goldfinger,"Action, Adventure, Thriller",1964,7.7,train
+The Birds,"Drama, Horror, Mystery",1963,7.7,train
+Cape Fear,"Drama, Thriller",1962,7.7,train
+Peeping Tom,"Drama, Horror, Thriller",1960,7.7,train
+The Magnificent Seven,"Action, Adventure, Western",1960,7.7,test
+Les yeux sans visage,"Drama, Horror",1960,7.7,test
+Invasion of the Body Snatchers,"Drama, Horror, Sci-Fi",1956,7.7,test
+Rebel Without a Cause,Drama,1955,7.7,train
+The Ladykillers,"Comedy, Crime",1955,7.7,train
+Sabrina,"Comedy, Drama, Romance",1954,7.7,train
+The Quiet Man,"Comedy, Drama, Romance",1952,7.7,train
+The Day the Earth Stood Still,"Drama, Sci-Fi",1951,7.7,train
+The African Queen,"Adventure, Drama, Romance",1951,7.7,train
+Gilda,"Drama, Film-Noir, Romance",1946,7.7,train
+Fantasia,"Animation, Family, Fantasy",1940,7.7,train
+The Invisible Man,"Horror, Sci-Fi",1933,7.7,train
+Dark Waters,"Biography, Drama, History",2019,7.6,train
+Searching,"Drama, Mystery, Thriller",2018,7.6,train
+Once Upon a Time... in Hollywood,"Comedy, Drama",2019,7.6,test
+Nelyubov,Drama,2017,7.6,train
+The Florida Project,Drama,2017,7.6,train
+Just Mercy,"Biography, Crime, Drama",2019,7.6,train
+Gifted,Drama,2017,7.6,test
+The Peanut Butter Falcon,"Adventure, Comedy, Drama",2019,7.6,test
+Victoria,"Crime, Drama, Romance",2015,7.6,train
+Mustang,Drama,2015,7.6,train
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy",2017,7.6,train
+Baby Driver,"Action, Crime, Drama",2017,7.6,train
+Only the Brave,"Action, Biography, Drama",2017,7.6,train
+Bridge of Spies,"Drama, History, Thriller",2015,7.6,train
+Incredibles 2,"Animation, Action, Adventure",2018,7.6,train
+Moana,"Animation, Adventure, Comedy",2016,7.6,test
+Sicario,"Action, Crime, Drama",2015,7.6,test
+Creed,"Drama, Sport",2015,7.6,train
+Leviafan,"Crime, Drama",2014,7.6,train
+Hell or High Water,"Action, Crime, Drama",2016,7.6,train
+Philomena,"Biography, Comedy, Drama",2013,7.6,train
+Dawn of the Planet of the Apes,"Action, Adventure, Drama",2014,7.6,train
+El cuerpo,"Mystery, Thriller",2012,7.6,test
+Serbuan maut,"Action, Thriller",2011,7.6,train
+End of Watch,"Action, Crime, Drama",2012,7.6,test
+Kari-gurashi no Arietti,"Animation, Adventure, Family",2010,7.6,test
+A Star Is Born,"Drama, Music, Romance",2018,7.6,train
+True Grit,"Drama, Western",2010,7.6,train
+Hævnen,"Drama, Romance",2010,7.6,train
+Despicable Me,"Animation, Comedy, Crime",2010,7.6,train
+50/50,"Comedy, Drama, Romance",2011,7.6,train
+Kick-Ass,"Action, Comedy, Crime",2010,7.6,train
+Celda 211,"Action, Adventure, Crime",2009,7.6,train
+Moneyball,"Biography, Drama, Sport",2011,7.6,train
+La piel que habito,"Drama, Horror, Thriller",2011,7.6,train
+Zombieland,"Adventure, Comedy, Fantasy",2009,7.6,train
+Die Welle,"Drama, Thriller",2008,7.6,train
+Sherlock Holmes,"Action, Adventure, Mystery",2009,7.6,test
+The Blind Side,"Biography, Drama, Sport",2009,7.6,train
+The Visitor,Drama,2007,7.6,train
+Seven Pounds,Drama,2008,7.6,test
+Eastern Promises,"Action, Crime, Drama",2007,7.6,train
+Stardust,"Adventure, Family, Fantasy",2007,7.6,train
+The Secret of Kells,"Animation, Adventure, Family",2009,7.6,train
+Inside Man,"Crime, Drama, Mystery",2006,7.6,train
+Gone Baby Gone,"Crime, Drama, Mystery",2007,7.6,train
+La Vie En Rose,"Biography, Drama, Music",2007,7.6,train
+Huo Yuan Jia,"Action, Biography, Drama",2006,7.6,test
+The Illusionist,"Drama, Fantasy, Mystery",2006,7.6,train
+Dead Man's Shoes,"Crime, Drama, Thriller",2004,7.6,train
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family",2009,7.6,train
+300,"Action, Drama",2006,7.6,train
+Match Point,"Drama, Romance, Thriller",2005,7.6,train
+Watchmen,"Action, Drama, Mystery",2009,7.6,train
+Lord of War,"Action, Crime, Drama",2005,7.6,train
+Saw,"Horror, Mystery, Thriller",2004,7.6,train
+"Synecdoche, New York",Drama,2008,7.6,train
+Mysterious Skin,Drama,2004,7.6,train
+Jeux d'enfants,"Comedy, Drama, Romance",2003,7.6,train
+Un long dimanche de fiançailles,"Drama, Mystery, Romance",2004,7.6,test
+The Station Agent,"Comedy, Drama",2003,7.6,train
+21 Grams,"Crime, Drama, Thriller",2003,7.6,test
+Boksuneun naui geot,"Crime, Drama, Thriller",2002,7.6,train
+Finding Neverland,"Biography, Drama, Family",2004,7.6,train
+25th Hour,Drama,2002,7.6,test
+The Butterfly Effect,"Drama, Sci-Fi, Thriller",2004,7.6,test
+28 Days Later...,"Drama, Horror, Sci-Fi",2002,7.6,train
+Batoru rowaiaru,"Action, Adventure, Drama",2000,7.6,train
+The Royal Tenenbaums,"Comedy, Drama",2001,7.6,train
+Y tu mamá también,Drama,2001,7.6,train
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy",2001,7.6,test
+The Others,"Horror, Mystery, Thriller",2001,7.6,test
+Blow,"Biography, Crime, Drama",2001,7.6,train
+Enemy at the Gates,"Drama, History, War",2001,7.6,train
+Minority Report,"Action, Crime, Mystery",2002,7.6,train
+The Hurricane,"Biography, Drama, Sport",1999,7.6,train
+American Psycho,"Comedy, Crime, Drama",2000,7.6,train
+Lola rennt,"Crime, Drama, Thriller",1998,7.6,train
+The Thin Red Line,"Drama, War",1998,7.6,train
+Mulan,"Animation, Adventure, Family",1998,7.6,train
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama",1998,7.6,train
+Funny Games,"Crime, Drama, Thriller",1997,7.6,train
+Dark City,"Mystery, Sci-Fi, Thriller",1998,7.6,test
+Sleepers,"Crime, Drama, Thriller",1996,7.6,train
+Lost Highway,"Mystery, Thriller",1997,7.6,train
+Sense and Sensibility,"Drama, Romance",1995,7.6,train
+Die Hard: With a Vengeance,"Action, Adventure, Thriller",1995,7.6,train
+Dead Man,"Adventure, Drama, Fantasy",1995,7.6,train
+The Bridges of Madison County,"Drama, Romance",1995,7.6,train
+Apollo 13,"Adventure, Drama, History",PG,7.6,train
+Trois couleurs: Blanc,"Comedy, Drama, Romance",1994,7.6,train
+Falling Down,"Action, Crime, Drama",1993,7.6,train
+Dazed and Confused,Comedy,1993,7.6,train
+My Cousin Vinny,"Comedy, Crime",1992,7.6,train
+Omohide poro poro,"Animation, Drama, Romance",1991,7.6,train
+Delicatessen,"Comedy, Crime",1991,7.6,train
+Home Alone,"Comedy, Family",1990,7.6,test
+The Godfather: Part III,"Crime, Drama",1990,7.6,test
+When Harry Met Sally...,"Comedy, Drama, Romance",1989,7.6,train
+The Little Mermaid,"Animation, Family, Fantasy",1989,7.6,train
+The Naked Gun: From the Files of Police Squad!,"Comedy, Crime",1988,7.6,test
+"Planes, Trains & Automobiles","Comedy, Drama",1987,7.6,test
+Lethal Weapon,"Action, Crime, Thriller",1987,7.6,train
+Blood Simple,"Crime, Drama, Thriller",1984,7.6,train
+On Golden Pond,Drama,1981,7.6,train
+Mad Max 2,"Action, Adventure, Sci-Fi",1981,7.6,train
+The Warriors,"Action, Crime, Thriller",1979,7.6,train
+The Muppet Movie,"Adventure, Comedy, Family",1979,7.6,train
+Escape from Alcatraz,"Action, Biography, Crime",1979,7.6,test
+Watership Down,"Animation, Adventure, Drama",1978,7.6,test
+Midnight Express,"Biography, Crime, Drama",1978,7.6,train
+Close Encounters of the Third Kind,"Drama, Sci-Fi",1977,7.6,train
+The Long Goodbye,"Comedy, Crime, Drama",1973,7.6,test
+Giù la testa,"Drama, War, Western",1971,7.6,train
+Kelly's Heroes,"Adventure, Comedy, War",1970,7.6,train
+The Jungle Book,"Animation, Adventure, Family",1967,7.6,train
+Blowup,"Drama, Mystery, Thriller",1966,7.6,train
+A Hard Day's Night,"Comedy, Music, Musical",1964,7.6,train
+Breakfast at Tiffany's,"Comedy, Drama, Romance",1961,7.6,test
+Giant,"Drama, Western",1956,7.6,train
+From Here to Eternity,"Drama, Romance, War",1953,7.6,train
+Lifeboat,"Drama, War",1944,7.6,test
+The 39 Steps,"Crime, Mystery, Thriller",1935,7.6,train
