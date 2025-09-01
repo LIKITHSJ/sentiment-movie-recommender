@@ -16,30 +16,35 @@ def predict_sentiment(review):
 def recommend_movies(genre, decade, top_n=5):
     start_year = decade
     end_year = decade + 9
-    movies['Released_Year'] = pd.to_numeric(movies['Released_Year'], errors='coerce')  
+    movies['Released_Year'] = pd.to_numeric(movies['Released_Year'], errors='coerce')
+
     
     filtered_movies = movies[
-        movies['Genre'].str.contains(genre, case=False, na=False) &
-        (movies['Released_Year'] >= start_year) & (movies['Released_Year'] <= end_year) 
+        movies['Genre'].str.contains(rf'\b{genre}\b', case=False, na=False) &
+        (movies['Released_Year'] >= start_year) &
+        (movies['Released_Year'] <= end_year)
     ]
-    
+
     if not filtered_movies.empty:
         return {
             "message": f"Here are the top {top_n} {genre} movies from the {decade}s:",
             "movies": filtered_movies.nlargest(top_n, 'IMDB_Rating')[['Series_Title', 'IMDB_Rating', 'Released_Year']].to_dict(orient='records')
         }
+
     
-    fallback_genre = movies[movies['Genre'].str.contains(genre, case=False, na=False)]
+    fallback_genre = movies[movies['Genre'].str.contains(rf'\b{genre}\b', case=False, na=False)]
     if not fallback_genre.empty:
         return {
             "message": f"Sorry, I couldn’t find {genre} movies in the {decade}s, but here are some other top-rated {genre} movies:",
             "movies": fallback_genre.nlargest(top_n, 'IMDB_Rating')[['Series_Title', 'IMDB_Rating', 'Released_Year']].to_dict(orient='records')
         }
+
     
     return {
         "message": "Sorry, I couldn’t find any movies for your preferences. Here are some top-rated movies overall:",
         "movies": movies.nlargest(top_n, 'IMDB_Rating')[['Series_Title', 'IMDB_Rating', 'Released_Year']].to_dict(orient='records')
     }
+
 
 @app.route('/')
 def home():
